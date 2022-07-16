@@ -1,7 +1,7 @@
 [href^="https"] {
     color: red;
 }
-.list > li:last-child{
+.list > li:last-child > a{
     background-color: green;
 }
 ul + p {
